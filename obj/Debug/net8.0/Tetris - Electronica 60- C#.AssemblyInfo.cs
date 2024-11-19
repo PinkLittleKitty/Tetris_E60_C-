@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Tetris - Electronica 60- C#")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6216cb2225ae1013da45a50543753bf835965372")]
 [assembly: System.Reflection.AssemblyProductAttribute("Tetris - Electronica 60- C#")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Tetris - Electronica 60- C#")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

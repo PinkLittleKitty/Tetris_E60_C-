@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\GithubProjects\\Tetris - Electronica 60- C#\\Tetris - Electronica 60- C#.csproj",
+      "projectUniqueName": "D:\\GithubProjects\\Tetris_E60_C-\\Tetris - Electronica 60- C#.csproj",
       "projectName": "Tetris - Electronica 60- C#",
-      "projectPath": "D:\\GithubProjects\\Tetris - Electronica 60- C#\\Tetris - Electronica 60- C#.csproj",
+      "projectPath": "D:\\GithubProjects\\Tetris_E60_C-\\Tetris - Electronica 60- C#.csproj",
       "packagesPath": "C:\\Users\\jerem\\.nuget\\packages\\",
-      "outputPath": "D:\\GithubProjects\\Tetris - Electronica 60- C#\\obj\\",
+      "outputPath": "D:\\GithubProjects\\Tetris_E60_C-\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\jerem\\AppData\\Roaming\\NuGet\\NuGet.Config",

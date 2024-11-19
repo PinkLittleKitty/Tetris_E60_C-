@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\GithubProjects\\Tetris - Electronica 60- C#\\",
+  "WorkspaceRootPath": "D:\\GithubProjects\\Tetris_E60_C-\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FECF1BD9-73CC-4C88-AED9-DCF1D73081B1}|Tetris - Electronica 60- C#.csproj|d:\\githubprojects\\tetris - electronica 60- c#\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{FECF1BD9-73CC-4C88-AED9-DCF1D73081B1}|Tetris - Electronica 60- C#.csproj|d:\\githubprojects\\tetris_e60_c-\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FECF1BD9-73CC-4C88-AED9-DCF1D73081B1}|Tetris - Electronica 60- C#.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\GithubProjects\\Tetris - Electronica 60- C#\\Program.cs",
+              "DocumentMoniker": "D:\\GithubProjects\\Tetris_E60_C-\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "D:\\GithubProjects\\Tetris - Electronica 60- C#\\Program.cs",
+              "ToolTip": "D:\\GithubProjects\\Tetris_E60_C-\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAKgAAAAAAAAAAAAAAK0AAAAdAAAAAAAAAA==",
+              "ViewState": "AgIAAMEAAAAAAAAAAAAqwMgAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-19T03:18:14.624Z",
               "EditorCaption": ""

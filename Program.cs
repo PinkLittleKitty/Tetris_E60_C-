@@ -197,14 +197,14 @@ static void DrawGame()
     for (int i = 0; i < height; i++)
     {
         // Left side stats
-        if (i == 1)
-            Console.Write($"Level: {level}");
-        else if (i == 2)
-            Console.Write($"Score: {score}");
-        else
-            Console.Write(new string(' ', 12)); // Padding for alignment
-
-        Console.Write(padding.Substring(12)); // Adjust center padding
+        string leftText = i switch
+        {
+            1 => $"Level: {level}".PadRight(12),
+            2 => $"Score: {score}".PadRight(12),
+            _ => new string(' ', 12)
+        };
+        Console.Write(leftText);
+        Console.Write(padding.Length > 12 ? padding.Substring(12) : padding);
         
         // Draw board
         for (int j = 0; j < width; j++)
