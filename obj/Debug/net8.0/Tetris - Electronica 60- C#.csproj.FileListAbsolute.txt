@@ -1,0 +1,14 @@
+D:\GithubProjects\Tetris - Electronica 60- C#\bin\Debug\net8.0\Tetris - Electronica 60- C#.exe
+D:\GithubProjects\Tetris - Electronica 60- C#\bin\Debug\net8.0\Tetris - Electronica 60- C#.deps.json
+D:\GithubProjects\Tetris - Electronica 60- C#\bin\Debug\net8.0\Tetris - Electronica 60- C#.runtimeconfig.json
+D:\GithubProjects\Tetris - Electronica 60- C#\bin\Debug\net8.0\Tetris - Electronica 60- C#.dll
+D:\GithubProjects\Tetris - Electronica 60- C#\bin\Debug\net8.0\Tetris - Electronica 60- C#.pdb
+D:\GithubProjects\Tetris - Electronica 60- C#\obj\Debug\net8.0\Tetris - Electronica 60- C#.GeneratedMSBuildEditorConfig.editorconfig
+D:\GithubProjects\Tetris - Electronica 60- C#\obj\Debug\net8.0\Tetris - Electronica 60- C#.AssemblyInfoInputs.cache
+D:\GithubProjects\Tetris - Electronica 60- C#\obj\Debug\net8.0\Tetris - Electronica 60- C#.AssemblyInfo.cs
+D:\GithubProjects\Tetris - Electronica 60- C#\obj\Debug\net8.0\Tetris - Electronica 60- C#.csproj.CoreCompileInputs.cache
+D:\GithubProjects\Tetris - Electronica 60- C#\obj\Debug\net8.0\Tetris - Electronica 60- C#.dll
+D:\GithubProjects\Tetris - Electronica 60- C#\obj\Debug\net8.0\refint\Tetris - Electronica 60- C#.dll
+D:\GithubProjects\Tetris - Electronica 60- C#\obj\Debug\net8.0\Tetris - Electronica 60- C#.pdb
+D:\GithubProjects\Tetris - Electronica 60- C#\obj\Debug\net8.0\Tetris - Electronica 60- C#.genruntimeconfig.cache
+D:\GithubProjects\Tetris - Electronica 60- C#\obj\Debug\net8.0\ref\Tetris - Electronica 60- C#.dll
